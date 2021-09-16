@@ -12,5 +12,4 @@ function boja_ispune() {
     if (a == 6) {
         a = 0
     }
-document.write("RGB"+(r,g,b))
 }
